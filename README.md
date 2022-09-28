@@ -1,0 +1,2 @@
+# ghdl-study
+GHDL exercises
